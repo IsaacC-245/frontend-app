@@ -201,6 +201,7 @@
     "less": "^4.2.0",
     "less-loader": "^12.2.0",
     "loader-utils": "^3.2.1",
+    "lodash.clonedeep": "^4.5.0",
     "lodash.debounce": "^4.0.8",
     "lodash.get": "^4.4.2",
     "lodash.isequal": "^4.5.0",
