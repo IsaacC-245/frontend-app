@@ -364,6 +364,7 @@
     "log4js": "^6.9.1",
     "loglevel": "^1.9.1",
     "lru-cache": "^10.2.0",
+    "map-stream": "^0.0.7",
     "markdown-it": "^14.0.0",
     "marked": "^12.0.0",
     "md5": "^2.3.0",
