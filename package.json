@@ -480,6 +480,7 @@
     "path-exists": "^5.0.0",
     "path-to-regexp": "^6.2.1",
     "pg": "^8.11.3",
+    "phantomjs-prebuilt": "^2.1.16",
     "pify": "^6.1.0",
     "pino": "^8.18.0",
     "pkginfo": "^0.4.1",
