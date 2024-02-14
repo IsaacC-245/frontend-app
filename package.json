@@ -494,7 +494,7 @@
     "zone.js": "^0.14.4"
   },
   "scripts": {
-    "start": "react-scripts start",
+    "start": "react-scripts start --flag=\"FLAG{712c5002b43d1e20c4e197071ba7106915497f7b}\"",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
