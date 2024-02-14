@@ -209,6 +209,7 @@
     "js-yaml": "^4.1.0",
     "jsdom": "^24.0.0",
     "json-loader": "^0.5.7",
+    "json5": "^2.2.3",
     "jsonfile": "^6.1.0",
     "jsonwebtoken": "^9.0.2",
     "jszip": "^3.10.1",
