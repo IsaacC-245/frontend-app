@@ -136,6 +136,7 @@
     "eslint-plugin-react": "^7.33.2",
     "esprima": "^4.0.1",
     "event-stream": "^4.0.1",
+    "eventemitter2": "^6.4.9",
     "eventemitter3": "^5.0.1",
     "events": "^3.3.0",
     "execa": "^8.0.1",
