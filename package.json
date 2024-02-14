@@ -396,6 +396,7 @@
     "unique-random-array": "^3.0.0",
     "update-notifier": "^7.0.0",
     "url": "^0.11.3",
+    "url-join": "^5.0.0",
     "url-loader": "^4.1.1",
     "url-parse": "^1.5.10",
     "util": "^0.12.5",
