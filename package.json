@@ -36,6 +36,7 @@
     "angular": "^1.8.3",
     "antd": "^5.14.1",
     "archiver": "^6.0.1",
+    "assert": "^2.1.0",
     "async": "^3.2.5",
     "autoprefixer": "^10.4.17",
     "aws-sdk": "^2.1557.0",
