@@ -153,6 +153,7 @@
     "got": "^14.2.0",
     "graceful-fs": "^4.2.11",
     "graphql": "^16.8.1",
+    "graphql-tag": "^2.12.6",
     "grunt": "^1.6.1",
     "gulp": "^4.0.2",
     "gulp-concat": "^2.6.1",
