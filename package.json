@@ -145,6 +145,7 @@
     "identity-obj-proxy": "^3.0.0",
     "immutable": "^5.0.0-beta.5",
     "inherits": "^2.0.4",
+    "ini": "^4.1.1",
     "inquirer": "^9.2.14",
     "invariant": "^2.2.4",
     "ip": "^1.1.8",
