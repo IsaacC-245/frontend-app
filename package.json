@@ -389,6 +389,7 @@
     "keycode": "^2.2.1",
     "knex": "^3.1.0",
     "koa": "^2.15.0",
+    "koa-body": "^6.0.1",
     "koa-bodyparser": "^4.4.1",
     "koa-compose": "^4.1.0",
     "koa-router": "^12.0.1",
