@@ -394,6 +394,7 @@
     "lodash.pick": "^4.4.0",
     "lodash.set": "^4.3.2",
     "lodash.throttle": "^4.1.1",
+    "lodash.uniq": "^4.5.0",
     "log-symbols": "^6.0.0",
     "log-update": "^6.0.0",
     "log4js": "^6.9.1",
