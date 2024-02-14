@@ -630,6 +630,7 @@
     "user-home": "^3.0.0",
     "util": "^0.12.5",
     "uuid": "^9.0.1",
+    "valid-url": "^1.0.9",
     "validate-npm-package-name": "^5.0.0",
     "validator": "^13.11.0",
     "verror": "^1.10.1",
