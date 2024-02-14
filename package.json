@@ -214,6 +214,7 @@
     "nodemon": "^3.0.3",
     "normalize.css": "^8.0.1",
     "npm": "^10.4.0",
+    "nunjucks": "^3.2.4",
     "object-assign": "^4.1.1",
     "open": "^10.0.3",
     "opn": "^6.0.0",
