@@ -364,6 +364,7 @@
     "loader-utils": "^3.2.1",
     "lodash-es": "^4.17.21",
     "lodash.assign": "^4.2.0",
+    "lodash.camelcase": "^4.3.0",
     "lodash.clonedeep": "^4.5.0",
     "lodash.debounce": "^4.0.8",
     "lodash.defaults": "^4.2.0",
