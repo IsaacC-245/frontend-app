@@ -125,6 +125,7 @@
     "superagent": "^8.1.2",
     "through2": "^4.0.2",
     "tslib": "^2.6.2",
+    "uglify-js": "^3.17.4",
     "underscore": "^1.13.6",
     "url-loader": "^4.1.1",
     "uuid": "^9.0.1",
