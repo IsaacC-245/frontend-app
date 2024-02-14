@@ -129,6 +129,7 @@
     "core-js": "^3.35.1",
     "cors": "^2.8.5",
     "create-react-class": "^15.7.0",
+    "cron": "^3.1.6",
     "cross-env": "^7.0.3",
     "cross-spawn": "^7.0.3",
     "crypto": "^1.0.1",
