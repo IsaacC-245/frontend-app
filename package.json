@@ -282,6 +282,7 @@
     "npmlog": "^7.0.1",
     "nunjucks": "^3.2.4",
     "object-assign": "^4.1.1",
+    "once": "^1.4.0",
     "open": "^10.0.3",
     "opn": "^6.0.0",
     "optimist": "^0.6.1",
