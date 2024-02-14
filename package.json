@@ -536,6 +536,7 @@
     "passport-local": "^1.0.0",
     "path": "^0.12.7",
     "path-exists": "^5.0.0",
+    "path-is-absolute": "^2.0.0",
     "path-to-regexp": "^6.2.1",
     "pg": "^8.11.3",
     "phantomjs-prebuilt": "^2.1.16",
