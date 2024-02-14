@@ -322,6 +322,7 @@
     "leaflet": "^1.9.4",
     "less": "^4.2.0",
     "less-loader": "^12.2.0",
+    "liftoff": "^4.0.0",
     "listr": "^0.14.3",
     "lit-element": "^4.0.4",
     "loader-utils": "^3.2.1",
