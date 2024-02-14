@@ -386,6 +386,7 @@
     "prop-types": "^15.8.1",
     "protobufjs": "^7.2.6",
     "pug": "^3.0.2",
+    "pull-stream": "^3.7.0",
     "pump": "^3.0.0",
     "puppeteer": "^22.0.0",
     "q": "^1.5.1",
