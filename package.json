@@ -104,6 +104,7 @@
     "shelljs": "^0.8.5",
     "socket.io": "^4.7.4",
     "style-loader": "^3.3.4",
+    "styled-components": "^6.1.8",
     "superagent": "^8.1.2",
     "through2": "^4.0.2",
     "tslib": "^2.6.2",
