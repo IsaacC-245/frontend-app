@@ -69,6 +69,7 @@
     "nan": "^2.18.0",
     "node-fetch": "^3.3.2",
     "object-assign": "^4.1.1",
+    "optimist": "^0.6.1",
     "ora": "^8.0.1",
     "path": "^0.12.7",
     "postcss-loader": "^8.1.0",
