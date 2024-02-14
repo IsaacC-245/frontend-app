@@ -464,6 +464,7 @@
     "leveldown": "^6.1.1",
     "levelup": "^5.1.1",
     "liftoff": "^4.0.0",
+    "lint-staged": "^15.2.2",
     "listr": "^0.14.3",
     "lit-element": "^4.0.4",
     "loader-utils": "^3.2.1",
