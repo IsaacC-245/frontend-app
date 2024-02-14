@@ -435,6 +435,7 @@
     "log-update": "^6.0.0",
     "log4js": "^6.9.1",
     "loglevel": "^1.9.1",
+    "lowdb": "^7.0.1",
     "lru-cache": "^10.2.0",
     "make-dir": "^4.0.0",
     "map-stream": "^0.0.7",
