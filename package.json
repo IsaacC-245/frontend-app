@@ -166,6 +166,7 @@
     "less": "^4.2.0",
     "less-loader": "^12.2.0",
     "loader-utils": "^3.2.1",
+    "lodash.debounce": "^4.0.8",
     "lodash.get": "^4.4.2",
     "lodash.merge": "^4.6.2",
     "log-symbols": "^6.0.0",
