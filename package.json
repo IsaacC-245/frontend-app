@@ -326,6 +326,7 @@
     "generic-pool": "^3.9.0",
     "get-port": "^7.0.0",
     "get-stdin": "^9.0.0",
+    "gh-pages": "^6.1.1",
     "github": "^14.0.0",
     "glob": "^10.3.10",
     "global": "^4.4.0",
