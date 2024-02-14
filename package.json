@@ -356,6 +356,7 @@
     "http-errors": "^2.0.0",
     "http-proxy": "^1.18.1",
     "http-proxy-middleware": "^2.0.6",
+    "http-server": "^14.1.1",
     "https": "^1.0.0",
     "https-proxy-agent": "^7.0.3",
     "husky": "^9.0.11",
