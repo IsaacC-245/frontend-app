@@ -722,6 +722,7 @@
     "reselect": "^5.1.0",
     "resize-observer-polyfill": "^1.5.1",
     "resolve": "^1.22.8",
+    "resolve-from": "^5.0.0",
     "restify": "^11.1.0",
     "restler": "^3.4.0",
     "rimraf": "^5.0.5",
