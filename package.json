@@ -349,6 +349,7 @@
     "iconv-lite": "^0.6.3",
     "identity-obj-proxy": "^3.0.0",
     "image-size": "^1.1.1",
+    "imagemin": "^8.0.1",
     "immutable": "^5.0.0-beta.5",
     "inflection": "^3.0.0",
     "inherits": "^2.0.4",
