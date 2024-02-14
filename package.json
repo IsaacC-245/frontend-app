@@ -188,6 +188,7 @@
     "cors": "^2.8.5",
     "cosmiconfig": "^9.0.0",
     "coveralls": "^3.1.1",
+    "crc": "^4.3.2",
     "create-hash": "^1.2.0",
     "create-react-class": "^15.7.0",
     "cron": "^3.1.6",
