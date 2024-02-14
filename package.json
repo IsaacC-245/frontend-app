@@ -466,6 +466,7 @@
     "react-router-redux": "^4.0.8",
     "react-scripts": "^5.0.1",
     "react-select": "^5.8.0",
+    "react-test-renderer": "^18.2.0",
     "react-transition-group": "^4.4.5",
     "read-pkg-up": "^11.0.0",
     "readable-stream": "^4.5.2",
