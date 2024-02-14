@@ -442,6 +442,7 @@
     "webpack-hot-middleware": "^2.26.1",
     "webpack-manifest-plugin": "^5.0.0",
     "webpack-merge": "^5.10.0",
+    "websocket": "^1.0.34",
     "whatwg-fetch": "^3.6.20",
     "when": "^3.7.8",
     "which": "^4.0.0",
