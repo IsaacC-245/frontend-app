@@ -183,6 +183,7 @@
     "eslint-plugin-standard": "^5.0.0",
     "esm": "^3.2.25",
     "esprima": "^4.0.1",
+    "ethereumjs-util": "^7.1.5",
     "event-stream": "^4.0.1",
     "eventemitter2": "^6.4.9",
     "eventemitter3": "^5.0.1",
