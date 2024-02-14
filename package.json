@@ -140,6 +140,7 @@
     "tslib": "^2.6.2",
     "uglify-js": "^3.17.4",
     "underscore": "^1.13.6",
+    "update-notifier": "^7.0.0",
     "url-loader": "^4.1.1",
     "uuid": "^9.0.1",
     "vue": "^3.4.19",
