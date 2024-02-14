@@ -820,6 +820,7 @@
     "sqlite3": "^5.1.7",
     "ssh2": "^1.15.0",
     "stack-trace": "^1.0.0-pre2",
+    "standard": "^17.1.0",
     "string": "^3.3.3",
     "strip-ansi": "^7.1.0",
     "strip-json-comments": "^5.0.1",
