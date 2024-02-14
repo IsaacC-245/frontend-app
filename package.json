@@ -358,6 +358,7 @@
     "url-loader": "^4.1.1",
     "util": "^0.12.5",
     "uuid": "^9.0.1",
+    "validate-npm-package-name": "^5.0.0",
     "validator": "^13.11.0",
     "vinyl": "^3.0.0",
     "vinyl-fs": "^4.0.0",
