@@ -389,6 +389,7 @@
     "strip-ansi": "^7.1.0",
     "style-loader": "^3.3.4",
     "styled-components": "^6.1.8",
+    "stylelint": "^16.2.1",
     "stylus": "^0.62.0",
     "superagent": "^8.1.2",
     "tar": "^6.2.0",
