@@ -494,6 +494,7 @@
     "xml2js": "^0.6.2",
     "xmlbuilder": "^15.1.1",
     "xmldom": "^0.6.0",
+    "xmlhttprequest": "^1.8.0",
     "xtend": "^4.0.2",
     "yamljs": "^0.3.0",
     "yargs": "^17.7.2",
