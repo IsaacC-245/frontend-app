@@ -477,6 +477,7 @@
     "karma": "^6.4.2",
     "karma-chrome-launcher": "^3.2.0",
     "karma-mocha": "^2.0.1",
+    "karma-phantomjs-launcher": "^1.0.4",
     "keycode": "^2.2.1",
     "keypress": "^0.2.1",
     "knex": "^3.1.0",
