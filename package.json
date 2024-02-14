@@ -471,6 +471,7 @@
     "restify": "^11.1.0",
     "rimraf": "^5.0.5",
     "rollup": "^2.79.1",
+    "rollup-plugin-babel": "^4.4.0",
     "rollup-plugin-commonjs": "^10.1.0",
     "rollup-plugin-node-resolve": "^5.2.0",
     "rsvp": "^4.8.5",
