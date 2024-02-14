@@ -164,6 +164,7 @@
     "loader-utils": "^3.2.1",
     "lodash.get": "^4.4.2",
     "lodash.merge": "^4.6.2",
+    "log-symbols": "^6.0.0",
     "log4js": "^6.9.1",
     "lru-cache": "^10.2.0",
     "markdown-it": "^14.0.0",
