@@ -950,6 +950,7 @@
     "xmlbuilder": "^15.1.1",
     "xmldom": "^0.6.0",
     "xmlhttprequest": "^1.8.0",
+    "xpath": "^0.0.34",
     "xregexp": "^5.1.1",
     "xtend": "^4.0.2",
     "yaml": "^2.3.4",
