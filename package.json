@@ -80,6 +80,7 @@
     "express-session": "^1.18.0",
     "extend": "^3.0.2",
     "file-loader": "^6.2.0",
+    "font-awesome": "^4.7.0",
     "fs": "^0.0.1-security",
     "fs-extra": "^11.2.0",
     "glob": "^10.3.10",
