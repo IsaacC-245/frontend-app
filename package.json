@@ -299,6 +299,7 @@
     "express-session": "^1.18.0",
     "extend": "^3.0.2",
     "extend-shallow": "^3.0.2",
+    "extract-zip": "^2.0.1",
     "faker": "^6.6.6",
     "fancy-log": "^2.0.0",
     "fast-glob": "^3.3.2",
