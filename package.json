@@ -348,6 +348,7 @@
     "fork-ts-checker-webpack-plugin": "^9.0.2",
     "form-data": "^4.0.0",
     "formidable": "^3.5.1",
+    "fresh": "^0.5.2",
     "front-matter": "^4.0.2",
     "fs": "^0.0.1-security",
     "fs-extra": "^11.2.0",
