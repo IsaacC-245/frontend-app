@@ -42,6 +42,7 @@
     "@oclif/config": "^1.18.17",
     "@oclif/plugin-help": "^6.0.12",
     "@octokit/rest": "^20.0.2",
+    "@phosphor/widgets": "^1.9.3",
     "@polymer/polymer": "^3.5.1",
     "@svgr/webpack": "^8.1.0",
     "@testing-library/jest-dom": "^5.17.0",
