@@ -72,6 +72,7 @@
     "cookie-parser": "^1.4.6",
     "core-js": "^3.35.1",
     "cors": "^2.8.5",
+    "cross-env": "^7.0.3",
     "cross-spawn": "^7.0.3",
     "crypto": "^1.0.1",
     "crypto-js": "^4.2.0",
