@@ -534,6 +534,7 @@
     "webpack-manifest-plugin": "^5.0.0",
     "webpack-merge": "^5.10.0",
     "webpack-node-externals": "^3.0.0",
+    "webpack-sources": "^3.2.3",
     "websocket": "^1.0.34",
     "whatwg-fetch": "^3.6.20",
     "when": "^3.7.8",
