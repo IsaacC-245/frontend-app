@@ -430,6 +430,7 @@
     "tar": "^6.2.0",
     "temp": "^0.9.4",
     "terser-webpack-plugin": "^5.3.10",
+    "three": "^0.161.0",
     "through": "^2.3.8",
     "through2": "^4.0.2",
     "tinycolor2": "^1.6.0",
