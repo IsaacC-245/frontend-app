@@ -454,6 +454,7 @@
     "ini": "^4.1.1",
     "iniparser": "^1.0.5",
     "inquirer": "^9.2.14",
+    "inquirer-autocomplete-prompt": "^3.0.1",
     "install": "^0.13.0",
     "intl": "^1.2.5",
     "invariant": "^2.2.4",
