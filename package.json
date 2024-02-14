@@ -329,6 +329,7 @@
     "graphql-tag": "^2.12.6",
     "graphql-tools": "^9.0.0",
     "grunt": "^1.6.1",
+    "grunt-cli": "^1.4.3",
     "grunt-contrib-clean": "^2.0.1",
     "grunt-contrib-copy": "^1.0.0",
     "grunt-contrib-jshint": "^3.2.0",
