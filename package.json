@@ -180,6 +180,7 @@
     "command-line-usage": "^7.0.1",
     "commander": "^12.0.0",
     "common-tags": "^1.8.2",
+    "component-emitter": "^2.0.0",
     "compression": "^1.7.4",
     "concat-stream": "^2.0.0",
     "config": "^3.3.11",
