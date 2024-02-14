@@ -167,6 +167,7 @@
     "deep-extend": "^0.6.0",
     "deepmerge": "^4.3.1",
     "del": "^7.1.0",
+    "detect-port": "^1.5.1",
     "diff": "^5.2.0",
     "discord.js": "^14.14.1",
     "dotenv": "^16.4.4",
