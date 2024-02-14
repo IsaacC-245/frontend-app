@@ -122,6 +122,7 @@
     "cli-spinner": "^0.2.10",
     "cli-table": "^0.3.11",
     "clone": "^2.1.2",
+    "clui": "^0.3.6",
     "co": "^4.6.0",
     "co-prompt": "^1.0.0",
     "codemirror": "^6.0.1",
