@@ -119,6 +119,7 @@
     "optimist": "^0.6.1",
     "ora": "^8.0.1",
     "path": "^0.12.7",
+    "pg": "^8.11.3",
     "postcss": "^8.4.35",
     "postcss-flexbugs-fixes": "^5.0.2",
     "postcss-loader": "^8.1.0",
