@@ -583,6 +583,7 @@
     "run-sequence": "^2.2.1",
     "rx": "^4.1.0",
     "rxjs": "^7.8.1",
+    "rxjs-compat": "^6.6.7",
     "safe-buffer": "^5.2.1",
     "sass-loader": "^14.1.0",
     "sax": "^1.3.0",
