@@ -492,6 +492,7 @@
     "ssh2": "^1.15.0",
     "string": "^3.3.3",
     "strip-ansi": "^7.1.0",
+    "strip-json-comments": "^5.0.1",
     "style-loader": "^3.3.4",
     "styled-components": "^6.1.8",
     "stylelint": "^16.2.1",
