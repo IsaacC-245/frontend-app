@@ -160,6 +160,7 @@
     "datafire": "^2.27.1",
     "date-fns": "^3.3.1",
     "dateformat": "^5.0.3",
+    "deasync": "^0.1.29",
     "debounce": "^2.0.0",
     "debug": "^4.3.4",
     "deep-equal": "^2.2.3",
