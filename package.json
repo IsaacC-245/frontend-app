@@ -135,6 +135,7 @@
     "deep-extend": "^0.6.0",
     "deepmerge": "^4.3.1",
     "del": "^7.1.0",
+    "diff": "^5.2.0",
     "dotenv": "^16.4.4",
     "dotenv-expand": "^11.0.3",
     "download-git-repo": "^3.0.2",
