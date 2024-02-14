@@ -28,6 +28,7 @@
     "underscore": "^1.13.6",
     "vue": "^3.4.19",
     "web-vitals": "^2.1.4",
+    "webpack": "^5.90.1",
     "yargs": "^17.7.2"
   },
   "scripts": {
