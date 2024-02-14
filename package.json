@@ -456,6 +456,7 @@
     "is-promise": "^4.0.0",
     "is-url": "^1.2.4",
     "is-wsl": "^3.1.0",
+    "isobject": "^4.0.0",
     "isomorphic-fetch": "^3.0.0",
     "istanbul": "^0.4.5",
     "jade": "^1.11.0",
