@@ -115,6 +115,7 @@
     "clean-webpack-plugin": "^4.0.0",
     "clear": "^0.1.0",
     "cli-color": "^2.0.3",
+    "cli-spinner": "^0.2.10",
     "cli-table": "^0.3.11",
     "clone": "^2.1.2",
     "co": "^4.6.0",
