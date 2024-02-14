@@ -206,6 +206,7 @@
     "connect": "^3.7.0",
     "connect-flash": "^0.1.1",
     "connect-history-api-fallback": "^2.0.0",
+    "connect-mongo": "^5.1.0",
     "connect-redis": "^7.1.1",
     "consolidate": "^1.0.3",
     "content-type": "^1.0.5",
