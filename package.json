@@ -295,6 +295,7 @@
     "stylus": "^0.62.0",
     "superagent": "^8.1.2",
     "tar": "^6.2.0",
+    "temp": "^0.9.4",
     "terser-webpack-plugin": "^5.3.10",
     "through": "^2.3.8",
     "through2": "^4.0.2",
