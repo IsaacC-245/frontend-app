@@ -25,6 +25,7 @@
     "@babel/preset-env": "^7.23.9",
     "@babel/preset-react": "^7.23.3",
     "@babel/runtime": "^7.23.9",
+    "@emotion/core": "^11.0.0",
     "@oclif/command": "^1.8.36",
     "@oclif/config": "^1.18.17",
     "@oclif/plugin-help": "^6.0.12",
