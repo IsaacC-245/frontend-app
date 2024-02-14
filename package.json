@@ -19,6 +19,7 @@
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
     "@types/node": "^20.11.17",
+    "angular": "^1.8.3",
     "async": "^3.2.5",
     "autoprefixer": "^10.4.17",
     "aws-sdk": "^2.1557.0",
