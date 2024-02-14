@@ -146,6 +146,7 @@
     "download-git-repo": "^3.0.2",
     "echarts": "^5.4.3",
     "ejs": "^3.1.9",
+    "elasticsearch": "^16.7.3",
     "ember-cli-babel": "^8.2.0",
     "ember-cli-htmlbars": "^6.3.0",
     "es6-promise": "^4.2.8",
