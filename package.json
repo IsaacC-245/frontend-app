@@ -620,6 +620,7 @@
     "object-assign": "^4.1.1",
     "object-hash": "^3.0.0",
     "object-path": "^0.11.8",
+    "object.assign": "^4.1.5",
     "on-finished": "^2.4.1",
     "once": "^1.4.0",
     "open": "^10.0.3",
