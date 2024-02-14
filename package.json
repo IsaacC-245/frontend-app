@@ -235,6 +235,7 @@
     "detect-port": "^1.5.1",
     "diff": "^5.2.0",
     "discord.js": "^14.14.1",
+    "dockerode": "^4.0.2",
     "dom-helpers": "^5.2.1",
     "dotenv": "^16.4.4",
     "dotenv-expand": "^11.0.3",
