@@ -273,6 +273,7 @@
     "isomorphic-fetch": "^3.0.0",
     "istanbul": "^0.4.5",
     "jade": "^1.11.0",
+    "jasmine": "^5.1.0",
     "jest": "^27.5.1",
     "jest-resolve": "^29.7.0",
     "jimp": "^0.22.10",
