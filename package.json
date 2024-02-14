@@ -55,6 +55,7 @@
     "chokidar": "^3.6.0",
     "classnames": "^2.5.1",
     "cli-table": "^0.3.11",
+    "clone": "^2.1.2",
     "co": "^4.6.0",
     "coffee-script": "^1.12.7",
     "colors": "^1.4.0",
