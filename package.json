@@ -210,6 +210,7 @@
     "graceful-fs": "^4.2.11",
     "graphql": "^16.8.1",
     "graphql-tag": "^2.12.6",
+    "graphql-tools": "^9.0.0",
     "grunt": "^1.6.1",
     "gulp": "^4.0.2",
     "gulp-autoprefixer": "^9.0.0",
