@@ -83,6 +83,7 @@
     "html-webpack-plugin": "^5.6.0",
     "immutable": "^5.0.0-beta.5",
     "inquirer": "^9.2.14",
+    "invariant": "^2.2.4",
     "isomorphic-fetch": "^3.0.0",
     "jade": "^1.11.0",
     "jest": "^27.5.1",
