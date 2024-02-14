@@ -463,6 +463,7 @@
     "winston": "^3.11.0",
     "workbox-webpack-plugin": "^7.0.0",
     "ws": "^8.16.0",
+    "xlsx": "^0.18.5",
     "xml2js": "^0.6.2",
     "xmldom": "^0.6.0",
     "xtend": "^4.0.2",
