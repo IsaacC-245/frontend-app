@@ -188,6 +188,7 @@
     "formidable": "^3.5.1",
     "fs": "^0.0.1-security",
     "fs-extra": "^11.2.0",
+    "github": "^14.0.0",
     "glob": "^10.3.10",
     "global": "^4.4.0",
     "globby": "^14.0.1",
