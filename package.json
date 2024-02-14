@@ -322,6 +322,7 @@
     "faker": "^6.6.6",
     "fancy-log": "^2.0.0",
     "fast-glob": "^3.3.2",
+    "fastclick": "^1.0.6",
     "fbjs": "^3.0.5",
     "figlet": "^1.7.0",
     "figures": "^6.0.1",
