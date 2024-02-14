@@ -167,6 +167,7 @@
     "ember-cli-htmlbars": "^6.3.0",
     "enzyme": "^3.11.0",
     "es6-promise": "^4.2.8",
+    "es6-shim": "^0.35.8",
     "escape-html": "^1.0.3",
     "escape-string-regexp": "^5.0.0",
     "escodegen": "^2.1.0",
