@@ -167,6 +167,7 @@
     "ini": "^4.1.1",
     "inquirer": "^9.2.14",
     "invariant": "^2.2.4",
+    "ioredis": "^5.3.2",
     "ip": "^1.1.8",
     "isomorphic-fetch": "^3.0.0",
     "jade": "^1.11.0",
