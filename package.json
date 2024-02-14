@@ -474,6 +474,7 @@
     "js-beautify": "^1.14.11",
     "js-cookie": "^3.0.5",
     "js-yaml": "^4.1.0",
+    "jsdoc": "^4.0.2",
     "jsdom": "^24.0.0",
     "jshint": "^2.13.6",
     "json-loader": "^0.5.7",
