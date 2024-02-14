@@ -82,6 +82,7 @@
     "clone": "^2.1.2",
     "co": "^4.6.0",
     "coffee-script": "^1.12.7",
+    "color": "^4.2.3",
     "colors": "^1.4.0",
     "command-line-args": "^5.2.1",
     "commander": "^12.0.0",
