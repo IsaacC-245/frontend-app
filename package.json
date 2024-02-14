@@ -645,6 +645,7 @@
     "prettier": "^3.2.5",
     "pretty-bytes": "^6.1.1",
     "pretty-error": "^4.0.0",
+    "pretty-ms": "^9.0.0",
     "prettyjson": "^1.2.5",
     "prismjs": "^1.29.0",
     "progress": "^2.0.3",
