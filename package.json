@@ -284,6 +284,7 @@
     "webpack-manifest-plugin": "^5.0.0",
     "webpack-merge": "^5.10.0",
     "whatwg-fetch": "^3.6.20",
+    "which": "^4.0.0",
     "winston": "^3.11.0",
     "ws": "^8.16.0",
     "xml2js": "^0.6.2",
