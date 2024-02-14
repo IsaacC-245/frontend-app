@@ -181,6 +181,7 @@
     "loader-utils": "^3.2.1",
     "lodash.debounce": "^4.0.8",
     "lodash.get": "^4.4.2",
+    "lodash.isequal": "^4.5.0",
     "lodash.merge": "^4.6.2",
     "log-symbols": "^6.0.0",
     "log4js": "^6.9.1",
