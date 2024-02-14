@@ -288,6 +288,7 @@
     "leaflet": "^1.9.4",
     "less": "^4.2.0",
     "less-loader": "^12.2.0",
+    "lit-element": "^4.0.4",
     "loader-utils": "^3.2.1",
     "lodash-es": "^4.17.21",
     "lodash.assign": "^4.2.0",
