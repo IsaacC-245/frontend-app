@@ -931,6 +931,7 @@
     "which": "^4.0.0",
     "winston": "^3.11.0",
     "winston-daily-rotate-file": "^5.0.0",
+    "word-wrap": "^1.2.5",
     "workbox-webpack-plugin": "^7.0.0",
     "wrench": "^1.5.9",
     "ws": "^8.16.0",
