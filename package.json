@@ -82,6 +82,7 @@
     "mongodb": "^6.3.0",
     "mongoose": "^8.1.2",
     "morgan": "^1.10.0",
+    "mysql": "^2.18.1",
     "nan": "^2.18.0",
     "node-fetch": "^3.3.2",
     "object-assign": "^4.1.1",
