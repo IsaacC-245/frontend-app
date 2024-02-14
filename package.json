@@ -233,6 +233,7 @@
     "formidable": "^3.5.1",
     "fs": "^0.0.1-security",
     "fs-extra": "^11.2.0",
+    "get-port": "^7.0.0",
     "get-stdin": "^9.0.0",
     "github": "^14.0.0",
     "glob": "^10.3.10",
