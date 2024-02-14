@@ -281,6 +281,7 @@
     "fs": "^0.0.1-security",
     "fs-extra": "^11.2.0",
     "fs-promise": "^2.0.3",
+    "fstream": "^1.0.12",
     "get-port": "^7.0.0",
     "get-stdin": "^9.0.0",
     "github": "^14.0.0",
