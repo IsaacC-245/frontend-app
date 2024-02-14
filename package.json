@@ -176,6 +176,7 @@
     "configstore": "^6.0.0",
     "connect": "^3.7.0",
     "connect-history-api-fallback": "^2.0.0",
+    "connect-redis": "^7.1.1",
     "consolidate": "^1.0.3",
     "convert-source-map": "^2.0.0",
     "cookie": "^0.6.0",
