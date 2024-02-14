@@ -71,6 +71,7 @@
     "winston": "^3.11.0",
     "yargs": "^17.7.2",
     "yeoman-generator": "^7.1.1",
+    "yosay": "^3.0.0",
     "zone.js": "^0.14.4"
   },
   "scripts": {
