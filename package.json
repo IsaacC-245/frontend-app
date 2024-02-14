@@ -279,6 +279,7 @@
     "http-errors": "^2.0.0",
     "http-proxy": "^1.18.1",
     "http-proxy-middleware": "^2.0.6",
+    "husky": "^9.0.11",
     "iconv-lite": "^0.6.3",
     "identity-obj-proxy": "^3.0.0",
     "image-size": "^1.1.1",
