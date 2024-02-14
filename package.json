@@ -140,6 +140,7 @@
     "diff": "^5.2.0",
     "dotenv": "^16.4.4",
     "dotenv-expand": "^11.0.3",
+    "download": "^8.0.0",
     "download-git-repo": "^3.0.2",
     "echarts": "^5.4.3",
     "ejs": "^3.1.9",
