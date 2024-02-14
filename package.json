@@ -82,6 +82,7 @@
     "backbone": "^1.6.0",
     "bcrypt": "^5.1.1",
     "bcryptjs": "^2.4.3",
+    "bfj": "^8.0.0",
     "bignumber.js": "^9.1.2",
     "bindings": "^1.5.0",
     "bluebird": "^3.7.2",
