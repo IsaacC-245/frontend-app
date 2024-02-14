@@ -323,6 +323,7 @@
     "merge": "^2.1.1",
     "metalsmith": "^2.6.2",
     "method-override": "^3.0.0",
+    "methods": "^1.1.2",
     "micromatch": "^4.0.5",
     "mime": "^4.0.1",
     "mime-types": "^2.1.35",
