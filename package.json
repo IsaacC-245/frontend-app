@@ -196,6 +196,7 @@
     "dotenv-expand": "^11.0.3",
     "download": "^8.0.0",
     "download-git-repo": "^3.0.2",
+    "draft-js": "^0.11.7",
     "echarts": "^5.4.3",
     "ejs": "^3.1.9",
     "elasticsearch": "^16.7.3",
