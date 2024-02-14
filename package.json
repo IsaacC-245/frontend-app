@@ -434,6 +434,7 @@
     "listr": "^0.14.3",
     "lit-element": "^4.0.4",
     "loader-utils": "^3.2.1",
+    "localforage": "^1.10.0",
     "lodash-es": "^4.17.21",
     "lodash.assign": "^4.2.0",
     "lodash.camelcase": "^4.3.0",
