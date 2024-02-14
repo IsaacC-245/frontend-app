@@ -805,6 +805,7 @@
     "user-home": "^3.0.0",
     "utf8": "^3.0.0",
     "util": "^0.12.5",
+    "utils-merge": "^1.0.1",
     "uuid": "^9.0.1",
     "valid-url": "^1.0.9",
     "validate-npm-package-name": "^5.0.0",
