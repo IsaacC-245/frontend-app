@@ -591,6 +591,7 @@
     "unist-util-visit": "^5.0.0",
     "unzip": "^0.1.11",
     "update-notifier": "^7.0.0",
+    "urijs": "^1.19.11",
     "url": "^0.11.3",
     "url-join": "^5.0.0",
     "url-loader": "^4.1.1",
