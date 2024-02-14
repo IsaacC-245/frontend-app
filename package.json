@@ -175,6 +175,7 @@
     "styled-components": "^6.1.8",
     "superagent": "^8.1.2",
     "through2": "^4.0.2",
+    "tmp": "^0.2.1",
     "tslib": "^2.6.2",
     "uglify-js": "^3.17.4",
     "underscore": "^1.13.6",
