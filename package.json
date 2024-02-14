@@ -20,6 +20,7 @@
     "@babel/preset-env": "^7.23.9",
     "@babel/preset-react": "^7.23.3",
     "@babel/runtime": "^7.23.9",
+    "@oclif/command": "^1.8.36",
     "@polymer/polymer": "^3.5.1",
     "@svgr/webpack": "^8.1.0",
     "@testing-library/jest-dom": "^5.17.0",
