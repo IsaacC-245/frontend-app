@@ -556,6 +556,7 @@
     "node-notifier": "^10.0.1",
     "node-pre-gyp": "^0.17.0",
     "node-schedule": "^2.1.1",
+    "node-static": "^0.7.11",
     "node-uuid": "^1.4.8",
     "node-watch": "^0.7.4",
     "node.extend": "^2.0.3",
