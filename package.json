@@ -186,6 +186,7 @@
     "coffee-script": "^1.12.7",
     "color": "^4.2.3",
     "colors": "^1.4.0",
+    "columnify": "^1.6.0",
     "command-exists": "^1.2.9",
     "command-line-args": "^5.2.1",
     "command-line-usage": "^7.0.1",
