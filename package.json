@@ -292,6 +292,7 @@
     "validator": "^13.11.0",
     "vinyl": "^3.0.0",
     "vue": "^3.4.19",
+    "vue-loader": "^17.4.2",
     "vue-router": "^4.2.5",
     "vue-template-compiler": "^2.7.16",
     "vuex": "^4.1.0",
