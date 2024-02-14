@@ -292,6 +292,7 @@
     "express": "^4.18.2",
     "express-session": "^1.18.0",
     "extend": "^3.0.2",
+    "extend-shallow": "^3.0.2",
     "faker": "^6.6.6",
     "fancy-log": "^2.0.0",
     "fast-glob": "^3.3.2",
