@@ -232,6 +232,7 @@
     "deasync": "^0.1.29",
     "debounce": "^2.0.0",
     "debug": "^4.3.4",
+    "decompress": "^4.2.1",
     "deep-diff": "^1.0.2",
     "deep-equal": "^2.2.3",
     "deep-extend": "^0.6.0",
