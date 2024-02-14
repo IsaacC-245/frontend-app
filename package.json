@@ -641,6 +641,7 @@
     "postcss-normalize": "^10.0.1",
     "postcss-preset-env": "^9.3.0",
     "postcss-safe-parser": "^7.0.0",
+    "pouchdb": "^8.0.1",
     "preact": "^10.19.4",
     "prettier": "^3.2.5",
     "pretty-bytes": "^6.1.1",
