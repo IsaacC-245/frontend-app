@@ -711,6 +711,7 @@
     "ramda": "^0.29.1",
     "randombytes": "^2.1.0",
     "randomstring": "^1.3.0",
+    "raven": "^2.6.4",
     "raw-body": "^2.5.2",
     "raw-loader": "^4.0.2",
     "rc": "^1.2.8",
