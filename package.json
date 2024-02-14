@@ -649,6 +649,7 @@
     "react-select": "^5.8.0",
     "react-test-renderer": "^18.2.0",
     "react-transition-group": "^4.4.5",
+    "react-virtualized": "^9.22.5",
     "read": "^3.0.1",
     "read-pkg": "^9.0.1",
     "read-pkg-up": "^11.0.0",
