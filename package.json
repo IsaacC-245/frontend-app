@@ -88,6 +88,7 @@
     "bower": "^1.8.14",
     "browser-sync": "^3.0.2",
     "browserify": "^17.0.0",
+    "bs58": "^5.0.0",
     "buffer": "^6.0.3",
     "bunyan": "^1.8.15",
     "camelcase": "^8.0.0",
