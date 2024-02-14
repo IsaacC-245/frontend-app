@@ -117,6 +117,7 @@
     "nan": "^2.18.0",
     "node-fetch": "^3.3.2",
     "node-uuid": "^1.4.8",
+    "nodemailer": "^6.9.9",
     "npm": "^10.4.0",
     "object-assign": "^4.1.1",
     "opn": "^6.0.0",
