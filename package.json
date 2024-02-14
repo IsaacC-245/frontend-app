@@ -54,6 +54,7 @@
     "node-fetch": "^3.3.2",
     "object-assign": "^4.1.1",
     "ora": "^8.0.1",
+    "postcss-loader": "^8.1.0",
     "prop-types": "^15.8.1",
     "q": "^1.5.1",
     "react": "^18.2.0",
