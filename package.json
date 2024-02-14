@@ -361,6 +361,7 @@
     "nan": "^2.18.0",
     "nconf": "^0.12.1",
     "ncp": "^2.0.0",
+    "node-emoji": "^2.1.3",
     "node-fetch": "^3.3.2",
     "node-notifier": "^10.0.1",
     "node-uuid": "^1.4.8",
